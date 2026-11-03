@@ -20,5 +20,5 @@ jobs:
  
       - name: Lancer les tests
         run: |
-          cd api
+          cd api2
           pytest
